@@ -1,4 +1,5 @@
 # Fundamentals 5 Library
+# for Delphi Package Manager
 
 Fundamentals 5 Code Library for Delphi and FreePascal
 
